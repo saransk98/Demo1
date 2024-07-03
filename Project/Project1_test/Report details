@@ -1,0 +1,2 @@
+This project demonstrates the use of Selenium WebDriver, Python, and the Page Object Model to automate the testing of key functionalities on the SauceDemo website. The tests cover login scenarios and the process of ordering a product, ensuring that the website behaves as expected in these scenarios.
+
